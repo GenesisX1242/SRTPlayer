@@ -9,7 +9,7 @@ SRT Player 是一款离线外部字幕显示工具，用于独立加载和播放
 a.完整版运行：
 
 ```text
-SRTPlayer-Setup-1.0.0
+SRTPlayer-Setup-1.1.0
 ```
 
 安装时可自定义目录。安装后可在 Windows“已安装的应用”中卸载，也可运行安装目录里的：
@@ -24,7 +24,7 @@ b.便携版运行：
 解压
 
 ```text
-SRTPlayer-Portable-1.0.0.zip
+SRTPlayer-Portable-1.1.0.zip
 ```
 
 无需安装，无需管理员权限，不写入 Windows 卸载列表，不创建开始菜单，不创建桌面快捷方式，可以放 U 盘里运行
